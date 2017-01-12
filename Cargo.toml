@@ -1,0 +1,7 @@
+[package]
+
+name = "rust-hello-world"
+version = "0.1.0"
+authors = [ "shian15810 <shian15810@gmail.com>" ]
+
+[dependencies]
